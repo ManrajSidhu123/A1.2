@@ -9,7 +9,7 @@ import java.text.NumberFormat;
  * 
  *  Assignment:     Part 2 of A1.5 
  * 
- *  Description:    Count frequency of numbers from 1-50
+ *  Description:    Count frequency of numbers from 1-50 from random array
  * 
  *************************************************************/
 
@@ -37,11 +37,9 @@ public class FrequencyCounter2{
         String nl = System.lineSeparator();
         
         // variables 
+        
         int[] NArray = new int[SIZE]; 
-         
-
-
- 
+        
     // ***** objects *****
     
         //Scanner scanner = new Scanner(System.in);
@@ -68,13 +66,11 @@ public class FrequencyCounter2{
         //fout.print(banner);
     
     // ***** Get Input *****
-    
-        // prompt for input
-        // read input from keyboard
-        // echo input back to console window
-    
+
     // ***** Main Processing *****
 
+    
+    
     // ***** Closing Message *****
     
         System.out.println();

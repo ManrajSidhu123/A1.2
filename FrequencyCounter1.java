@@ -8,9 +8,9 @@ import java.util.Random;
  *  Name:           Manraj 
  *  Class:          CS30S
  * 
- *  Assignment:     A1.5 
+ *  Assignment:     Part 1 of A1.5 
  * 
- *  Description:    Frequency counter using arrays 
+ *  Description:    1000 random numbers in a array
  * 
  *************************************************************/
 
@@ -36,7 +36,7 @@ public class FrequencyCounter1{
         
         // array 
         int random = 0; 
-        int a = 1000; 
+        int array = 1000; 
         
     
     // ***** objects *****
@@ -66,7 +66,7 @@ public class FrequencyCounter1{
         // prompt for input
         // read input from keyboard
         // echo input back to console window
-      for(int i =  0; i < a; i++){
+      for(int i =  0; i < array; i++){
        // random number 
        random = rnd.nextInt(50) + 0; 
     

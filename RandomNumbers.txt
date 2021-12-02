@@ -1,5 +1,5 @@
 *****************************
-Name:        Tarandeep
+Name:        Manraj
 Class:       CS30S
 Assignment:  A 1.5
 *****************************
